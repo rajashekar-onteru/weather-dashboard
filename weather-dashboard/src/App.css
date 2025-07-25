@@ -1,0 +1,22 @@
+.app {
+  height: 100vh;
+  overflow-y: auto;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+}
+
+.app-title {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.placeholder-text {
+  font-size: 16px;
+  color: #777;
+  margin-top: 30px;
+}
