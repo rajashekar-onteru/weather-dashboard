@@ -14,18 +14,16 @@ https://weather-dashboard-chi-nine.vercel.app/
 - Responsive design for mobile and desktop
 - Clean and modular codebase using React Context API for state management
 
-## Technologies Used
+## Technologies & Libraries Used
 
-| Tech              | Reason                                                                 |
-|------------------|------------------------------------------------------------------------|
-| React            | For building dynamic UI                                                |
-| TypeScript       | For static typing and better code maintainability                      |
-| CSS              | For styling            |
-| OpenWeatherMap API | To fetch current and forecast weather data                           |
-| Vite             | Lightning-fast development environment                                 |
+-React  : For building dynamic UI   
+-TypeScript : For static typing and better code maintainability
+-CSS  : For styling
+-OpenWeatherMap API :To fetch current and forecast weather data
+-Vite : Lightning-fast development environment
 
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 If given more time, the following enhancements could significantly improve the user experience and technical robustness of the application:
 
